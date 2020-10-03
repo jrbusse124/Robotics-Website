@@ -35,7 +35,7 @@ body {
 }
 
 .dropdown .dropbtn { 
-  font-size: 16px;  
+  font-size: 17px;  
   border: none;
   outline: none;
   color: white;
@@ -51,7 +51,7 @@ body {
 }
 
 .navbar a.active, .dropdown:active .dropbtn {
-    background-color: rgb(255, 190, 33)
+    background-color: rgb(255, 191, 33)
 }
 
 .dropdown-content { 
@@ -66,7 +66,7 @@ body {
 .dropdown-content a {
   float: none;
   color: black;
-  padding: 12px 16px;
+  padding: 13px 16px;
   text-decoration: none;
   display: block;
   text-align: left;
